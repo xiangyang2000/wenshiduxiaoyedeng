@@ -1,4 +1,8 @@
 # wenshiduxiaoyedeng
+This project is developed using Tuya SDK, which enables you to quickly develop branded
+apps connecting and controlling smart scenarios of many devices.
+For more information, please check Tuya Developer Website
+
 温湿度小夜灯
 温湿度传感小夜灯——基于涂鸦联网模块
 集成温度湿度传感器的插座小夜灯——基于涂鸦联网模组
